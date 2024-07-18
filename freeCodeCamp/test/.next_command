@@ -9,3 +9,4 @@ touch footer.jpeg
 cd ..
 mv images/footer.jpeg client/assets/images
 find
+rmdir images
