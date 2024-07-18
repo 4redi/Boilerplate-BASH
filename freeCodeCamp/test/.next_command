@@ -8,3 +8,4 @@ ls --color=auto -l
 touch footer.jpeg
 cd ..
 mv images/footer.jpeg client/assets/images
+find
