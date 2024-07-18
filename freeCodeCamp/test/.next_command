@@ -28,3 +28,4 @@ cd ..
 cd images
 cd ../../..
 mv CodeRoad.svg client/assets/icons
+mv freeCodeCamp.svg client/assets/icons
