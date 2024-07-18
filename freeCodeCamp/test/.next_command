@@ -43,3 +43,6 @@ rm -r fonts
 ls --color=auto -l
 touch package.json
 touch server.js
+touch readme.md
+rm readme.md
+touch README.md
