@@ -41,3 +41,4 @@ find
 rm --help
 rm -r fonts
 ls --color=auto -l
+touch package.json
