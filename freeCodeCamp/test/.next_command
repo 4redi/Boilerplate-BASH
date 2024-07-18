@@ -62,3 +62,4 @@ ls --color=auto -l
 mv website website-boilerplate
 ls --color=auto -l
 cp --help
+cp -r website-boilerplate toms-website
