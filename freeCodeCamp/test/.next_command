@@ -64,3 +64,5 @@ ls --color=auto -l
 cp --help
 cp -r website-boilerplate toms-website
 ls --color=auto -l
+find -name toms-website
+find toms-website
