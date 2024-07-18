@@ -66,3 +66,5 @@ cp -r website-boilerplate toms-website
 ls --color=auto -l
 find -name toms-website
 find toms-website
+find website-boilerplatr
+find website-boilerplate
